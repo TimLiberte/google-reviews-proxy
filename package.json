@@ -1,0 +1,6 @@
+{
+  "name": "google-reviews-proxy",
+  "version": "1.0.0",
+  "description": "Serverless proxy for Google Places API",
+  "private": true
+}
